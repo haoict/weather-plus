@@ -1,7 +1,7 @@
 Package: com.haoict.weatherplus
 Name: Weather Plus
-Depends: mobilesubstrate, preferenceloader, com.haoict.libhdev (>= 4.1.0), firmware (>= 10)
-Version: 1.0.0
+Depends: mobilesubstrate, preferenceloader, com.haoict.libhdev (>= 4.2.0), firmware (>= 10)
+Version: 1.1.0
 Architecture: iphoneos-arm
 Description: Free & Open Source Tweak for Weather App
  Free & Open Source Tweak for Weather App
@@ -10,8 +10,7 @@ Description: Free & Open Source Tweak for Weather App
  Features:
  - Add the date next to each day
  - Custom format (dd/MM, MM/dd, etc,...)
- - Support iOS 10 (not tested) - 11 (tested) - 12 (tested) - 13 (tested)
- - Support latest Weather app version
+ - Support iOS 10-13 & latest Weather app version
  . 
  I collect uuid for better support and statistic purpose
  . 
