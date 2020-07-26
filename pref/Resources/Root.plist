@@ -347,7 +347,7 @@
         <string>HPSHeaderTextCell</string>
         <key>label</key>
         <string>Weather Plus</string>
-        <key>subtitle</key>
+        <key>subtitles</key>
         <array>
           <string>By @haoict</string>
           <string>Free and Open Source!</string>
